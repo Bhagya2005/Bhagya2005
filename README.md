@@ -20,7 +20,6 @@ preprocessing, exploratory data analysis (EDA), feature engineering, model devel
 
 ### 🛠️ **Tech Stack**
 **Languages:** Java, Python, JavaScript, TypeScript
-
 **Frontend Tools:**  HTML, CSS, TailwindCSS, React.js, Angular(SSR as well as CSR), Svelte , Sveltekit  
 **Backend Tools:** Node.js , Express.js 
 **Databases:** MongoDB, MySQL  
@@ -30,16 +29,16 @@ preprocessing, exploratory data analysis (EDA), feature engineering, model devel
 ---
 
 ### 📫 **Competitive Programming Profiles / Coding Profile**
-- **Leetcode:** [Bhagya Patel](https://linkedin.com/in/bhagya-patel)
-- **GeeksforGeek:** [bhagyapatel.com](https://bhagyapatel.com) *(Add your portfolio URL)*
+- **Leetcode:** [Bhagya_patel_01](https://leetcode.com/u/Bhagya_patel_01/)
+- **GeeksforGeek:** [bhagya20egod](https://www.geeksforgeeks.org/user/bhagya20egod/)
 - **Codolio:** [bhagya.patel@example.com](mailto:bhagya.patel@example.com)
 
 ---
 
 ### 📫 **Contact Me**
-- **LinkedIn:** [Bhagya Patel](https://linkedin.com/in/bhagya-patel)
-- **Portfolio:** [bhagyapatel.com](https://bhagyapatel.com) *(Add your portfolio URL)*
-- **Email:** [bhagya.patel@example.com](mailto:bhagya.patel@example.com)
+- **LinkedIn:** [Bhagya Patel](https://www.linkedin.com/in/bhagyapatel/)
+- **Portfolio:** [bhagya-patel-portfolio.vercel.app](https://bhagya-patel-portfolio.vercel.app/)
+- **Email:** [bhagya20052904@gmail.com](mailto:bhagya20052904@gmail.com)
 
 ---
 
