@@ -20,6 +20,7 @@ preprocessing, exploratory data analysis (EDA), feature engineering, model devel
 
 ### 🛠️ **Tech Stack**
 **Languages:** Java, Python, JavaScript, TypeScript
+
 **Frontend Tools:**  HTML, CSS, TailwindCSS, React.js, Angular(SSR as well as CSR), Svelte , Sveltekit  
 **Backend Tools:** Node.js , Express.js 
 **Databases:** MongoDB, MySQL  
