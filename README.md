@@ -31,7 +31,7 @@ preprocessing, exploratory data analysis (EDA), feature engineering, model devel
 ### 📫 **Competitive Programming Profiles / Coding Profile**
 - **Leetcode:** [Bhagya_patel_01](https://leetcode.com/u/Bhagya_patel_01/)
 - **GeeksforGeek:** [bhagya20egod](https://www.geeksforgeeks.org/user/bhagya20egod/)
-- **Codolio:** [bhagya.patel@example.com](mailto:bhagya.patel@example.com)
+- **Codolio:** [Bhagya_patel_01](https://codolio.com/profile/Bhagya_patel_01)
 
 ---
 
