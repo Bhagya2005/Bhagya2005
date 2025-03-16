@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Bhagya Nitinkumar Patel
 
 🎓 **3rd Year Computer Science Engineering Student**  
-💻 **Full-Stack Developer | Data Science | AI Enthusiast**
+💻 **MERN & MEAN Stack Developer | Data Science | AI Enthusiast**
 
 ---
 
