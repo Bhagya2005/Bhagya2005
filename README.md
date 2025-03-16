@@ -1,30 +1,17 @@
 # Hi there! 👋 I'm Bhagya Nitinkumar Patel
 
 🎓 **3rd Year Computer Science Engineering Student**  
-💻 **Full-Stack Developer | Machine Learning Enthusiast**
-
----
-
-## 📄 **Resume at a Glance**
-
-### 🧑‍💼 **About Me**
-- I am a dedicated Computer Science Engineering student with strong expertise in programming languages such as Python and
-Java.
-- I have proficiency in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and the MEAN Stack (MongoDB, Express.js,
-Angular, Node.js) for full-stack development. My skills extend to building full-stack application
-- I have proficiency in data analysis, machine learning, and deep learning, along with hands-on experience in tools like NumPy,
-pandas, scikit-learn, TensorFlow, and PyTorch. My skills extend to building end-to-end data-driven solutions, including data
-preprocessing, exploratory data analysis (EDA), feature engineering, model development.
+💻 **Full-Stack Developer | Data Science | AI Enthusiast**
 
 ---
 
 ### 🛠️ **Tech Stack**
-**Languages:** Java, Python, JavaScript, TypeScript
-**Frontend Tools:**  HTML, CSS, TailwindCSS, React.js, Angular(SSR as well as CSR), Svelte , Sveltekit  
-**Backend Tools:** Node.js , Express.js 
-**Databases:** MongoDB, MySQL  
-**Data Science:** NumPy, pandas, scikit-learn, Matplotlib, Seaborn  
-**Tools:** Git, GitHub, VS Code, Streamlit, Chart.js
+**Languages:** Python , Java, JavaScript, TypeScript , SQL
+**AI Tools:**  Crawl4 AI , Pydantic AI , LlamaIndex , Langchain , openRouter , Hugging face
+**Frontend Tools:** HTML, CSS, Sass, React.js, Angular (CSR as well as SSR), Tailwind CSS, Material UI
+**Backend Tools:** Node.js, Express.js, MongoDB, Django (for RestAPIs) 
+**Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Tensorflow, Keras, Seaborn, Streamlit 
+**Tools:** Git, GitHub, VS Code
 
 ---
 
