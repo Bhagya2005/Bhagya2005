@@ -6,12 +6,12 @@
 ---
 
 ### 🛠️ **Tech Stack**
-**Languages:** Python , Java, JavaScript, TypeScript , SQL
-**AI Tools:**  Crawl4 AI , Pydantic AI , LlamaIndex , Langchain , openRouter , Hugging face
-**Frontend Tools:** HTML, CSS, Sass, React.js, Angular (CSR as well as SSR), Tailwind CSS, Material UI
-**Backend Tools:** Node.js, Express.js, MongoDB, Django (for RestAPIs) 
-**Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Tensorflow, Keras, Seaborn, Streamlit 
-**Tools:** Git, GitHub, VS Code
+- **Languages:** Python , Java, JavaScript, TypeScript , SQL
+- **AI Tools:**  Crawl4 AI , Pydantic AI , LlamaIndex , Langchain , openRouter , Hugging face
+- **Frontend Tools:** HTML, CSS, Sass, React.js, Angular (CSR as well as SSR), Tailwind CSS, Material UI
+- **Backend Tools:** Node.js, Express.js, MongoDB, Django (for RestAPIs) 
+- **Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib, Tensorflow, Keras, Seaborn, Streamlit 
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
