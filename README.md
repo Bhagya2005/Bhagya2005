@@ -17,7 +17,6 @@
 
 ### 📫 **Competitive Programming Profiles / Coding Profile**
 - **Leetcode:** [Bhagya_patel_01](https://leetcode.com/u/Bhagya_patel_01/)
-- **GeeksforGeek:** [bhagya20egod](https://www.geeksforgeeks.org/user/bhagya20egod/)
 - **Codolio:** [Bhagya_patel_01](https://codolio.com/profile/Bhagya_patel_01)
 
 ---
