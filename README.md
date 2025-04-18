@@ -14,19 +14,19 @@
 - **Tools:** Git, GitHub, VS Code
 
 ---
+### 📫 **Contact Me**
+- **LinkedIn:** [Bhagya Patel](https://www.linkedin.com/in/bhagyapatel/)
+- **Portfolio:** [bhagya-patel-portfolio.vercel.app](https://bhagyapatel-portfolio.vercel.app/)
+- **Email:** [bhagya20052904@gmail.com](mailto:bhagya20052904@gmail.com)
 
+---
 ### 📫 **Competitive Programming Profiles / Coding Profile**
 - **Leetcode:** [Bhagya_patel_01](https://leetcode.com/u/Bhagya_patel_01/)
 - **Codolio:** [Bhagya_patel_01](https://codolio.com/profile/Bhagya_patel_01)
 
 ---
 
-### 📫 **Contact Me**
-- **LinkedIn:** [Bhagya Patel](https://www.linkedin.com/in/bhagyapatel/)
-- **Portfolio:** [bhagya-patel-portfolio.vercel.app](https://bhagya-patel-portfolio.vercel.app/)
-- **Email:** [bhagya20052904@gmail.com](mailto:bhagya20052904@gmail.com)
 
----
 
 ### 🎖️ **Achievements**
 - 🏆 **National Level Science Talent Search Examination - 2021 (NSTSE):** Achieved an outstanding **All India Rank of 553**, placing in the top 1% of participants nationwide. Secured a remarkable **State Rank of 37**.
