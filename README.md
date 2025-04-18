@@ -16,7 +16,7 @@
 ---
 ### 📫 **Contact Me**
 - **LinkedIn:** [Bhagya Patel](https://www.linkedin.com/in/bhagyapatel/)
-- **Portfolio:** [bhagya-patel-portfolio.vercel.app](https://bhagyapatel-portfolio.vercel.app/)
+- **Portfolio:** [bhagyapatel-portfolio.vercel.app](https://bhagyapatel-portfolio.vercel.app/)
 - **Email:** [bhagya20052904@gmail.com](mailto:bhagya20052904@gmail.com)
 
 ---
