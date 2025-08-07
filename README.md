@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **3rd Year Computer Science Engineering Student** at Gujarat Technological University
+- 🎓 **4th Year Computer Science Engineering Student** at Gujarat Technological University
 - 💼 Interned at **Excelsior Technologies** & **BHIT HUB** – contributed to real-world products
 - 👨‍💻 Passionate about building **AI tools**, **scalable web apps**, and solving **real-world problems**
 - 🧠 AI, ML, NLP | 🧾 Langchain | 🌐 React.js + Node.js | 💬 Voice & Chat Interfaces
