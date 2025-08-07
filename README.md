@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bhagya Nitinkumar Patel</h1>
 
 <p align="center">
-  <b>🚀 Full Stack Developer (MERN & MEAN) | 🧠 AI/ML Enthusiast | 📊 Data Science Explorer</b><br/>
+  <b>🚀 Full Stack Developer (MERN) | 🧠 AI/ML Enthusiast | 📊 Data Science Explorer</b><br/>
   <i>Crafting scalable solutions & building cool stuff with code ✨</i>
 </p>
 
