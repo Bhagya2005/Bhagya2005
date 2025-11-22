@@ -16,8 +16,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **4th Year Computer Science Engineering Student** at Gujarat Technological University
-- 💼 Interned at **Excelsior Technologies** & **BHIT HUB** – contributed to real-world products
+- 🎓 **Final Year Computer Science Engineering Student** at Gujarat Technological University
+- 💼 Interned at **Qrious Tech Team LLP** – contributed to real-world products
 - 👨‍💻 Passionate about building **AI tools**, **scalable web apps**, and solving **real-world problems**
 - 🧠 AI, ML, NLP | 🧾 Langchain | 🌐 React.js + Node.js | 💬 Voice & Chat Interfaces
 
@@ -27,10 +27,10 @@
 
 ```ts
 Languages:      Python | Java | JavaScript | TypeScript | SQL
-Frontend:       React.js | Angular | Next.js | HTML5 | CSS3 | Tailwind | Bootstrap | MUI
-Backend:        Node.js | Express.js | MongoDB | MySQL | Django | Postman
+Frontend:       React.js | Next.js | HTML5 | CSS3 | Tailwind | Bootstrap 
+Backend:        Node.js | Express.js | MongoDB | MySQL  | Postman
 AI/ML Tools:    Langchain | LlamaIndex | TensorFlow | Scikit-learn | PyTorch | Crawl4AI | Streamlit
-Other Tools:    Git | GitHub | VS Code | Figma
+Other Tools:    Git | GitHub 
 ```
 
 ---
